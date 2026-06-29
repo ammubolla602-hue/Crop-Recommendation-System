@@ -34,6 +34,6 @@ This project predicts the most suitable crop to cultivate based on the soil's Ni
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/crop-recommendation-system.git
+git clone https://github.com/ammubolla602-hue/crop-recommendation-system.git
 cd crop-recommendation-system
 pip install -r requirements.txt
